@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "0e99c9e3-a6ed-4f57-ac76-bf1a7ae4f8c9"
+    markdown: {}
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "3958de39-319e-4a9e-b1e2-5246294e9b51"
+  "markdown-preview": {}
+  "markdown-writer":
+    tableAlignment: "left"
+    tableExtraPipes: true
+  welcome:
+    showOnStartup: false
